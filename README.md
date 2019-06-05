@@ -16,6 +16,7 @@ Tutorial para ensamblar un controlador brewpiless
 [Brewpiless](https://github.com/vitotai) es un port de brewpi desarrollado por [vitotai](https://github.com/vitotai). Utiliza un esp8266 para reemplazar a una Raspberry pi y Arduino.
 
 > Ejecutando BrewPi sin Pi, por lo tanto, BrewPi-Less.
+<img src="./img/brewpiless.jpg" height="480">
 
 ## Hardware
 
@@ -42,6 +43,8 @@ Tutorial para ensamblar un controlador brewpiless
 - 1 cargador de celular (cualquiera que sobre en casa)
 
 ## Ensamblaje
+
+<img src="./img/BPL_simple.jpg" height="720">
 
 ## Instalacion
 
