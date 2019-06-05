@@ -5,17 +5,17 @@ Tutorial para ensamblar un controlador brewpiless
 ## Tabla de contenidos
 
 - [Descripcion](#descripcion)
-    - [TER](#typo3-extension-repository)
-    - [Composer](#composer)
-- [hardware](#hardware)
+
+- [Hardware](#hardware)
+- [Ensamblaje](#ensamblaje)
+- [Instalacion](#instalacion)
+- [Configuracion](#configuracion)
+- [Errores frecuentes](#errores)
 
 ## Descripcion
+[Brewpiless](https://github.com/vitotai) es un port de brewpi desarrollado por [vitotai](https://github.com/vitotai). Utiliza un esp8266 para reemplazar a una Raspberry pi y Arduino.
 
-This document is for the latest Aimeos TYPO3 **18.10 release and later**.
-
-- Stable release: 19.4 (TYPO3 7/8/9 LTS)
-- LTS release: 18.10 (TYPO3 7/8/9 LTS)
-
+> Ejecutando BrewPi sin Pi, por lo tanto, BrewPi-Less.
 
 ## Hardware
 
@@ -29,3 +29,9 @@ This document is for the latest Aimeos TYPO3 **18.10 release and later**.
 - 1 cargador de celular (cualquiera que sobre en casa)
 - 1 toma doble (se consigue en ferreterías)
 - 1 caja para el proyecto ( yo use una caja ciega)
+
+## Instalacion
+
+## Configuracion
+
+## Errores frequentes
