@@ -30,12 +30,13 @@ Tutorial para ensamblar un controlador brewpiless
 <img src="./img/relay.jpg" height="280">
 - 1 bornera doble de al menos 5 bocas (se suele conseguir en cualquier casa de electronica)
 <img src="./img/bornera.jpg" height="280">
-- 15 cables dupont hembra/hembra. 
+- 15 cables dupont hembra-hembra. 
 <img src="./img/Dupont-hembra.png" height="280">
-- 5 cables dupont macho/macho(5).
+- 5 cables dupont macho-macho
 <img src="./img/hembra-macho.jpg" height="280">
 - 1 toma doble (se consigue en ferreterías)
 <img src="./img/toma-doble.jpg" height="280">
+
 - 1 resistencia de 4,7k oms (se suele conseguir en cualquier casa de electronica)
 - 1 caja para el proyecto ( yo use una caja ciega)
 - 1 cargador de celular (cualquiera que sobre en casa)
