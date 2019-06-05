@@ -19,7 +19,9 @@ Tutorial para ensamblar un controlador brewpiless
 
 ## Hardware
 
-- 1 esp8266 nodemcu 
+- 1 esp8266 nodemcu
+<img src="./img/esp8266.jpg" height="280">
+
 - 1 display Lcd 2004 Backlight Azul 20x4 + Serie I2c Arduino (es importante comprar el que trae adaptador Serie l2c). El display es opcional, pero es cómodo.
 - 2 sensores digitales temperatura Ds18b20 Cable Sumergible 2 Metros ( comprar el de 2 metros, el de 1 metro queda muy corto)
 - 1 Modulo Relay Rele De 2 Canales 5v 10a Arduino Pic Avr
