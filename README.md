@@ -1,4 +1,4 @@
-# Tutorial brewpiless en español
+# Brewpiless en español
 Tutorial para ensamblar un controlador brewpiless
 
 
@@ -40,6 +40,8 @@ Tutorial para ensamblar un controlador brewpiless
 - 1 resistencia de 4,7k oms (se suele conseguir en cualquier casa de electronica)
 - 1 caja para el proyecto ( yo use una caja ciega)
 - 1 cargador de celular (cualquiera que sobre en casa)
+
+## Ensamblaje
 
 ## Instalacion
 
