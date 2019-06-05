@@ -32,7 +32,7 @@ Tutorial para ensamblar un controlador brewpiless
 - 1 bornera doble de al menos 5 bocas (se suele conseguir en cualquier casa de electronica)
 <img src="./img/bornera.jpg" height="280">
 - 15 cables dupont hembra/hembra. 
-<img src="./img/dupont-hembra.png" height="280">
+<img src="./img/Dupont-hembra.png" height="280">
 - 5 cables dupont macho/macho(5).
 <img src="./img/hembra-macho.jpg" height="280">
 - 1 cargador de celular (cualquiera que sobre en casa)
