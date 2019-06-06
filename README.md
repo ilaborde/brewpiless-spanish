@@ -48,7 +48,11 @@ Este es el diagrama de las conexiones, debajo del mismo dejo algunas notas.
 - El 5v power supply seria nuestro cargador de celular, este se conecta directo al nodemcu.
 - Entre el cable de data y el de 5v de los sensores Ds18b20 tiene que ir la resistencia.
 - La forma mas facil de cablear el esp8266 a bornera es agarrar un cable dupont, sacarle la punta plastica y pelar el cable.  
-- Los sensores Ds18b20 pueden venir con 3 configuraciones de colores en los cables:
+- 
+```
+NOTA
+Los sensores Ds18b20 pueden venir con 3 configuraciones de colores en los cables:
+```
 
 * El tipo 1 donde:
   * Cable rojo: VDD
