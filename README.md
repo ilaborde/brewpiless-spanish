@@ -90,5 +90,5 @@ Para instalar el software tenemos que descargar algunas herramientas y el codigo
 ## Errores frequentes
 
 * Mi lcd prende pero no muestra nada de info
-  * Para que el lcd muestre info tenemos que ajustar el potenciometro que trae atras con un destorllinado (mucho cuidado de no tocar nada mas)
+  * Para que el lcd muestre info tenemos que ajustar el potenciometro que trae atras con un destorllinador (cuidado de no tocar las soldaduras) asi establecemos el contraste, solo con girarlo un poco alcanza
  <img src="./img/potenciometro.png" height="280">
