@@ -50,7 +50,7 @@ Este es el diagrama de las conexiones, debajo del mismo dejo algunas notas.
 - La forma mas facil de cablear el esp8266 a bornera es agarrar un cable dupont, sacarle la punta plastica y pelar el cable.  
 - Los sensores Ds18b20 pueden venir con 3 configuraciones de colores en los cables:
 
-El tipo 1 donde:
+1. El tipo 1 donde:
 
 - Cable rojo: VDD
 - Cable negro: GND
@@ -58,15 +58,15 @@ El tipo 1 donde:
 
   <img src="./img/sonda1.jpg" height="280">
   
-  El tipo 2 donde:
+ 2. El tipo 2 donde:
 
 - Cable rojo: VDD
 - Cable verde: GND
 - Cable amarillo: DQ
 
-  <img src="./img/sonda2.jpg" height="280">
+  <img src="./img/sonda-2.jpg" height="280">
   
-  El tipo 3 donde:
+ 3. El tipo 3 donde:
 
 - Cable rojo: VDD
 - Cable verde: DQ
