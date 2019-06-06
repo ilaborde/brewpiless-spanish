@@ -10,7 +10,7 @@
 - [Errores frecuentes](#errores)
 
 ## Descripcion
-[Brewpiless](https://github.com/vitotai) es un port de brewpi desarrollado por [vitotai](https://github.com/vitotai). Utiliza un esp8266 para reemplazar a una Raspberry pi y Arduino.
+[Brewpiless](https://github.com/vitotai/BrewPiLess) es un port de brewpi desarrollado por [vitotai](https://github.com/vitotai). Utiliza un esp8266 para reemplazar a una Raspberry pi y Arduino.
 
 > Ejecutando BrewPi sin Pi, por lo tanto, BrewPi-Less.
 <img src="./img/brewpiless.jpg" height="480">
