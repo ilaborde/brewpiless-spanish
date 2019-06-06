@@ -82,8 +82,11 @@ Para instalar el software tenemos que descargar algunas herramientas y el codigo
 3. Descargar el codigo de brewpiless https://github.com/vitotai/BrewPiLess/archive/master.zip
 4. Una vez descargado el codigo (tarda unos minutos) lo descomprimimos en alguna carpeta y abrimos el visual studio code.
 
+ En progreso...
+ 
 ## Configuracion
-
+ En progreso...
+ 
 ## Errores frequentes
 
 * Mi lcd prende pero no muestra nada de info
