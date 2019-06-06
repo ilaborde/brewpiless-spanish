@@ -78,6 +78,17 @@ Los sensores Ds18b20 pueden venir con 3 configuraciones de colores en los cables
   
 ## Instalacion
 
+Para instalar el software tenemos que descargar algunas herramientas y el codigo
+
+1. Descargar e instalar visual studio code: https://code.visualstudio.com
+2. Instalar PlatformIO para visual studio code http://platformio.org/get-started/ide?install=vscode
+3. Descargar el codigo de brewpiless https://github.com/vitotai/BrewPiLess/archive/master.zip
+4. Una vez descargado el codigo (tarda unos minutos) lo descomprimimos en alguna carpeta y abrimos el visual studio code.
+
 ## Configuracion
 
 ## Errores frequentes
+
+* Mi lcd prende pero no muestra nada de info
+  * Para que el lcd muestre info tenemos que ajustar el potenciometro que trae atras con un destorllinado (mucho cuidado de no tocar nada mas)
+ <img src="./img/potenciometro.png" height="280">
