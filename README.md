@@ -42,13 +42,13 @@ Tutorial para ensamblar un controlador brewpiless
 
 ## Ensamblaje
 El ensamblaje es mas sencillo de lo que parece, solo hay que usar los cables hembra-hembra para conectar cada dispositivo al esp8266.
-Aca hay diagrama de las conexiones, debajo del mismo dejo algunas notas.  
+Este es el diagrama de las conexiones, debajo del mismo dejo algunas notas.  
 <img src="./img/BPL_simple.jpg" height="720">
 
-El 5v power supply seria nuestro cargador de celular, este se conecta directo al nodemcu.
-Entre el cable de data y el de 5v de los sensores Ds18b20 tiene que ir la resistencia.
-La forma mas facil de cablear el esp8266 a bornera es agarrar un cable dupont, sacarle la punta plastica y pelar el cable.  
-Lo sensores Ds18b20 pueden venir con 3 configuraciones de colores en los cables:
+- El 5v power supply seria nuestro cargador de celular, este se conecta directo al nodemcu.
+- Entre el cable de data y el de 5v de los sensores Ds18b20 tiene que ir la resistencia.
+- La forma mas facil de cablear el esp8266 a bornera es agarrar un cable dupont, sacarle la punta plastica y pelar el cable.  
+- Los sensores Ds18b20 pueden venir con 3 configuraciones de colores en los cables:
 
 El tipo 1 donde:
 
