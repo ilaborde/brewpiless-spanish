@@ -1,6 +1,3 @@
-# Brewpiless en español
-Tutorial para ensamblar un controlador brewpiless
-
 
 ## Tabla de contenidos
 
